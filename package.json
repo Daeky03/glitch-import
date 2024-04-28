@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "g4f": "^1.4.2",
+    "node-fetch": "^2.6.6",
+    "nutrition-ai": "^2.0.0",
+    "socket.io": "^4.7.5"
+  }
+}
